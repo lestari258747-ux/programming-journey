@@ -1,0 +1,19 @@
+/* Selector Universal */
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+/* Selector Tag */
+* {
+   color: skyblue;
+}
+/* Selector Class */
+.blueviolet {
+    background-color: blueviolet;
+    padding: 10px;
+}
+/* Selector ID */
+#palevioletred {
+    background-color: palevioletred;
+    color: white;
+    padding: 10px;
+}
