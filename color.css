@@ -1,0 +1,37 @@
+.warna1 {
+    background-color: lavender;
+    color: black;
+    padding: 10px;
+    margin: 5px;
+}
+.warna2 {
+    background-color: #9f9fce;
+    color:black;
+    padding: 10px;
+    margin: 5px;
+}
+.warna3 {
+    background-color: rgb(92, 92, 145);
+    color: white;
+    padding: 10px;
+    margin: 5px;
+}
+.warna4 {
+    background-color: rgba(207, 128, 243, 0.5);
+    color: white;
+    padding: 10px;
+    margin: 5px;
+}
+.warna5 {
+    background-color: hsl(281, 27%, 57%);
+    color: white;
+    padding: 10px;
+    margin: 5px;
+}
+.warna6 {
+    background-color: hsla(284, 13%, 28%, 0.7);
+    color: white;
+    padding: 10px;
+    margin: 5px;
+}
+
